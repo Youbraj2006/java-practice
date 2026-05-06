@@ -27,4 +27,4 @@ public class B_Variable {
         obj.display();
     }
 }
->>>>>>> 12e3d332351821a7491234c2fbdf7b780ad1ab6e
+
