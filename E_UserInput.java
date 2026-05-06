@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
 | Method       | Input Type    |
 | ------------ | ------------- |
@@ -25,3 +25,4 @@ public class E_UserInput {
 input.close();
 
     }
+}
