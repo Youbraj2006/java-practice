@@ -46,5 +46,4 @@ public class C_DataTypes {
         C_DataTypes obj = new C_DataTypes();
         obj.data();
 }
-}
->>>>>>> 12e3d332351821a7491234c2fbdf7b780ad1ab6e
+
