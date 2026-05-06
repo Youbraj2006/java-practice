@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class files
 *.class
 
@@ -7,4 +8,15 @@
 *.iml
 
 # OS files
+=======
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+>>>>>>> 12e3d332351821a7491234c2fbdf7b780ad1ab6e
 .DS_Store
