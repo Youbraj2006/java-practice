@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 
- public class A_text{
-    public static void main(String[] args) {
-   System.out.println("hello java");
-
-    }
-}
-=======
 
  public class A_text{
     public static void main(String[] args) {
