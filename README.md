@@ -21,4 +21,3 @@ To run Java in VS Code, install JDK, set its path in environment variables, inst
 
 ## Author
 Youbraj Thapa
->>>>>>> 12e3d332351821a7491234c2fbdf7b780ad1ab6e
